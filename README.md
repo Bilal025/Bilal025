@@ -17,7 +17,7 @@
   As an fresh graduate with a strong passion for Full-Stack development, I am constantly seeking new challenges and opportunities to build my skills and experience.👨🏽‍💻
 </p>
 
-### 👨‍💻 Languages and Tools
+### 👨‍💻 Tech Stack and Tools
 
 <br />
 
