@@ -1,5 +1,11 @@
 ### Hi there 👋, It's me Bilal.
 
+<p>
+  As an fresh graduate with a strong passion for Full-Stack development, I am constantly seeking new challenges and opportunities to build my skills and experience.👨🏽‍💻
+</p>
+
+### Let's Connect
+
 <a href="https://www.linkedin.com/in/bjmbilal/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -10,16 +16,18 @@
 
 <a href="https://facebook.com/mobilal025">
   <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>  
+<a href="https://bilal025.github.io/Bilal-portfolio-website/">
+  <img src="https://img.shields.io/badge/Website-for?style=for-the-badge&color=black"> 
 </a>
 
-<br><br>
-<p>
-  As an fresh graduate with a strong passion for Full-Stack development, I am constantly seeking new challenges and opportunities to build my skills and experience.👨🏽‍💻
-</p>
+<a href="https://arizendev.com/">
+  <img src="https://img.shields.io/badge/Arizendev-for?style=for-the-badge&color=%23D9083c">
+</a>
+
+<br>
 
 ### 👨‍💻 Tech Stack and Tools
-
-<br />
 
 <img src="https://img.shields.io/badge/JAVA-for?style=for-the-badge&logo=java&logoColor=green&color=red">  <img src="https://img.shields.io/badge/Spring-for?style=for-the-badge&logo=spring&logoColor=green&color=grey">  <img src="https://img.shields.io/badge/-nodejs-white?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=black">
 <br>
