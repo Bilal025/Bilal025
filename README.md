@@ -1,7 +1,7 @@
 ### Hi there 👋, It's me Bilal.
 
 <p>
-  As an fresh graduate with a strong passion for Full-Stack development, I am constantly seeking new challenges and opportunities to build my skills and experience.👨🏽‍💻
+   I'm a Software Engineer with experience in Java, Spring Boot, and microservices. I’ve built scalable backend systems and full-stack applications using React, Angular, and Node.js. Passionate about clean code, system design, and learning new technologies👨🏽‍💻
 </p>
 
 ### Let's Connect
